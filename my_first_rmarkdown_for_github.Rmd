@@ -23,6 +23,7 @@ summary(cars)
 
 ```{r}
 plot(cars)
+abline(a = 80, b = 0, h = c(90, 70))
 ```
 
 

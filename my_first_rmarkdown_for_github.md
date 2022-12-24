@@ -1,7 +1,7 @@
 ---
 title: "My First RMarkdown for GitHub!"
 author: "MikeLyons"
-date: "2022-12-23"
+date: "2022-12-24"
 output: 
   html_document: 
     keep_md: yes
@@ -33,6 +33,7 @@ summary(cars)
 
 ```r
 plot(cars)
+abline(a = 80, b = 0, h = c(90, 70))
 ```
 
 ![](my_first_rmarkdown_for_github_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
