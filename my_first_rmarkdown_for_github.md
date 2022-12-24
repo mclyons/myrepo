@@ -30,7 +30,15 @@ summary(cars)
 ##  Max.   :25.0   Max.   :120.00
 ```
 
-## Including Plots
+
+```r
+plot(cars)
+```
+
+![](my_first_rmarkdown_for_github_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
+
+
+## Including Plot
 
 You can also embed plots, for example:
 
